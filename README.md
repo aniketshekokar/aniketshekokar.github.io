@@ -2,17 +2,6 @@
 
 A light, motion-rich personal portfolio built with **HTML, CSS and vanilla JavaScript**. No build tools or package installation required.
 
-## Run locally
-1. Extract the ZIP.
-2. Open the folder in VS Code.
-3. Open `index.html` in your browser, or use the VS Code Live Server extension.
-
-## Add your resume
-Put your PDF at:
-`assets/ANIKET_Resume.pdf`
-
-The resume links already point to this path. Until you add the file, those links will not open a resume.
-
 ## Personalize before publishing
 - Update the project cards with your actual GitHub repository URLs.
 - Add project demo links when available.
